@@ -1,0 +1,49 @@
+:root{
+  --black: #141414;
+  --blue:#0933ee;
+  --red:#e50914;
+  --orange:#bd6c21;
+}
+body{
+  background: var(--black);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+header .container{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: url(fundo.jpg);
+}
+.logo{
+  color:antiquewhite;
+  font-family: initial;
+  font-size: 35px;
+  margin: 10px;
+}
+header nav a:hover{
+  color: #bd6c21;
+}
+.botao:hover{
+  color: #e50914;
+}
+.botao{
+  margin-top: 5px;
+  width: auto;
+}
+.principal{
+  font-size: 20px;
+  background:url(house-of-cards.jpg);
+  height: 1000px;
+  background-size: cover;
+
+}
+.principal .titulo{
+    margin-top: 0%;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: normal;
+}
