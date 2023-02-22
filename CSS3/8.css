@@ -1,0 +1,9 @@
+.principal{
+  font-size: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(5, 5, 5, 0.5)100%),url(https://pipocasclub.com.br/wp-content/uploads/2022/12/avatar-2-image002-e1671144701779.png);
+  height: 500px;
+  background-size: 100%;
+  flex-direction: column-reverse;
+  margin:0%
+
+}

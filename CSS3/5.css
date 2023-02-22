@@ -1,0 +1,8 @@
+.principal{
+  font-size: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(5, 5, 5, 0.5)100%),url(https://www.minhaoperadora.com.br/wp-content/uploads/2022/11/Top-Gun-Maverick-filme-com-Tom-Cruise-ja-tem-data-para-estrear-no-streaming-confira.jpg);
+  height: 600px;
+  background-size: 100%;
+  flex-direction: column-reverse;
+  margin:0%
+}

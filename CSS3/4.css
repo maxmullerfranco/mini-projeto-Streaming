@@ -1,0 +1,9 @@
+.principal{
+  font-size: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(5, 5, 5, 0.5)100%),url(https://i0.wp.com/matheusaraujo.me/wp-content/uploads/2022/04/suitscapa.jpg?w=1200&ssl=1);
+  height: 700px;
+  background-size: 100%;
+  flex-direction: column-reverse;
+  margin:0%
+
+}
